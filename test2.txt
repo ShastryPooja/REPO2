@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 18E9-0BE8
+
+ Directory of C:\Users\pooja\Desktop\MyProject
+
+04-07-2019  13:32    <DIR>          .
+04-07-2019  13:32    <DIR>          ..
+04-07-2019  13:20               345 test1.txt
+04-07-2019  13:32                 0 test2.txt
+               2 File(s)            345 bytes
+               2 Dir(s)  114,004,619,264 bytes free
